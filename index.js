@@ -15,7 +15,7 @@ if(arr[1]=== "+"){
     //modulus
     result=parseInt(arr[0]) % parseInt([2])
 }else  if(arr[1]==="/"){
-    //modulus
+    //modulus comment
     result=parseInt(arr[0]) / parseInt([2])
 }
 console.log(arr)
